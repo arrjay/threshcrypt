@@ -58,5 +58,8 @@ make install DESTDIR=%{buildroot}
 
 
 %changelog
+* Fri Feb 17 2017 RJ Bergeron <rbergero@gmail.com> 2.0.0-1
+- new package built with tito
+
 * Wed Feb 08 2017 RJ Bergeron - 2.0.0-1
 - initial build
